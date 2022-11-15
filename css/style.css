@@ -1,0 +1,145 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+ .navbar{
+    background-color: #00090a
+}
+
+.quem-somos{
+    background-color:white;
+    color: black;
+}
+
+.margin{
+padding-top: 10px;
+padding-bottom: 50px;
+}
+
+.estudos{
+    background-color: white;
+    color: black;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+.cortext{
+    color: aliceblue;
+}
+
+#formacao h6{/* pega todos H6 dentro da classe estudos*/
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+#quemsomos p{
+    text-align: start;
+    margin-left: 60px;
+}
+#link-topo{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.margem-aux-eletronica{
+    margin-bottom: 10px;
+    text-align: start;
+}
+.ttt{
+    text-align: start;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.margem-aux-producao{
+    margin-bottom: 57px;
+}
+.margem-atendimento{
+    margin-bottom: 107px;
+}
+.margem-residencial{
+    margin-bottom: 35px;
+}
+
+
+.btn-whatsapp {
+    position: fixed;
+    outline: none;
+    bottom: 10px;
+    left: 10px;
+    border-radius: 50%;
+    height: 45px;
+    width: 45px;
+    cursor: pointer;
+    background: #34af23;
+    color: #FFF;
+    font-size: 2.3rem;
+    border: 1px solid #f1f1f1;
+
+    animation-name: pulsarr;
+    animation-duration: 0.8s;
+    animation-timing-function: ease-out;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: none;
+    animation-play-state: running;  
+
+
+}
+.fa{
+    margin-bottom: 20px;
+}
+.fa-whatsapp{
+    color: #FFF;
+}
+
+/*@keyframes pulsar {
+    0% {
+        height: 65px;
+        width: 65px;
+    }
+    100% {
+        height: 85px;
+        width: 85px;
+    }
+}*/
+.btn-retorno{
+    animation-name: pulsarr;
+    animation-duration: 0.8s;
+    animation-timing-function: ease-out;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-fill-mode: none;
+    animation-play-state: running;  
+    
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+@keyframes pulsarr {
+    0% {
+        height: 45px;
+        width: 45px;
+    }
+    100% {
+        height: 65px;
+        width: 65px;
+    }
+}
+
+.contatos{
+    bottom: 10px;
+    margin-bottom: 0;
+}
+.contatos-1{
+    margin-left: 55px;
+}
+#contatos{
+    padding-bottom: 2px;
+}
