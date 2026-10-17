@@ -47,7 +47,7 @@ Desde a criação deste projeto, minha jornada acadêmica e técnica avançou si
 | Período | Foco de Estudo | Tecnologias Principais |
 | :--- | :--- | :--- |
 | **2022** | Fundamentos de Web Design | HTML, CSS, Bootstrap |
-| **Atualmente** | Engenharia de Software (4º Semestre) & ADS Concluído | **PHP, PostgreSQL, Arquitetura MVC, Git, Lógica de Programação Avançada** |
+| **Atualmente** | Engenharia de Software (4º Semestre) & ADS Concluído | **PHP, PostgreSQL, Arquitetura MVC, Git, Lógica de Programação ** |
 
 Hoje, meu foco está no desenvolvimento de aplicações web completas (Back-end e Front-end), com ênfase em segurança, performance e boas práticas de arquitetura de software.
 
